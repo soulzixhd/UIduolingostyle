@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers an engaging user interface for learning, inspired by Duolingo, allowing users to easily access and interact with GitHub resources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
